@@ -1,0 +1,199 @@
+
+
+/*Fondo y color texto*/
+body {
+  background-color: #353535; /*color de fondo */
+  color: white; /*color del texto*/
+}
+
+
+
+/*Hace que padding y border se incluyan en el ancho/alto */
+* { box-sizing: border-box; }
+
+
+/*Estilo de la lista de navegación*/
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgba(31, 41, 70, 0.664);
+   border: 1px solid rgba(136, 255, 255, 0.863);
+}
+
+ul li {
+  float: left;
+}
+
+ul li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+ul li a:hover {
+  background-color: rgba(136, 255, 255, 0.863);
+}
+
+
+/*Transición*/
+ul li a {
+  transition: background-color 200ms ease, color 200ms ease;
+}
+
+/*cambio de color con el puntero en la navegación*/
+ul li a:hover,
+li a:focus,
+li a:focus-visible {
+  background-color: rgba(18, 185, 236, 0.904); /* color de fondo al pasar */
+  color: #ffffff; /* color de texto cuando se hace hover - ajústalo para buen contraste */
+  cursor: pointer;
+}
+/*---------------------------------------*/
+/*---------------------------------------*/
+
+
+/*Contenedor Grid*/
+.contenedor-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+  gap: 0.75rem;
+  max-width: 1100px;
+  margin: 1rem auto;
+  padding: 0.5rem;
+}
+
+
+
+
+/*Estilo de celda (<nav>)*/
+.contenedor-grid nav {
+  background: rgba(31, 41, 70, 0.664);
+  padding: 0.6rem 0.9rem;
+  text-align: center;
+  border-radius: 0.4rem;
+  border: 1px solid rgba(136, 255, 255, 0.863);
+  color: #eaf6ff;
+  font-weight: 600;
+}
+
+
+
+/*efecto hover*/
+.contenedor-grid nav:hover {
+  background: rgba(145,246,250,0.06);
+  cursor: pointer;
+}
+
+
+
+/*posición y color del enlace e grado*/
+#enlace_grado {
+  color: #91f6fa;
+  font-size: 0.875rem;
+  display: inline-block;
+  padding: 0.25rem 0.5rem; /* espacio interno pequeño */
+  margin-top: 0.5rem;
+  border-radius: 0.375rem;
+  border: 0.0625rem solid rgb(77, 133, 255);
+}
+
+
+
+/*Cabecera nombre*/
+#cabecera1 {
+  text-align: center;
+  color: #36c6ff;
+  font-family: 'Arial Black', sans-serif;
+}
+
+
+/*Grado Superior*/
+div.nombre_ciclogrado {
+  text-align: center;
+  color: #36c6ff;
+  padding: 1rem 1.25rem;         /* espacio interno */
+  margin: 1.25rem auto;         /* separación externa */
+  border: 0.0625rem solid rgba(136, 255, 255, 0.863);
+  border-radius: 0.5rem;
+  background: rgba(31, 41, 70, 0.664);
+  max-width: 48rem;
+}
+
+
+/*Color y posición cabeceras Nº3*/
+#cabecera3 {
+  color: #36c6ff;
+  text-align: center;
+}
+
+/*Posición presentación*/
+div.presentacion {
+  text-align: center;
+  font-size: 1.25rem;
+  padding: 0.9rem 1rem;
+  margin: 1rem auto;
+  border: 0.0625rem solid rgba(136, 255, 255, 0.863);
+  border-radius: 0.375rem;
+  background: rgba(31, 41, 70, 0.664);
+  max-width: 48rem;
+}
+
+
+/*Icono admin*/
+#admin {
+  align-items: center;
+}
+
+
+/*Lista asignaturas*/
+div.asignaturas {
+  font-size: 1.25rem;
+  padding: 0.8rem 1rem;
+  margin: 1rem auto;
+  border: 0.0625rem solid rgba(136, 255, 255, 0.863);
+  border-radius: 0.375rem;
+  background: rgba(31, 41, 70, 0.664);
+  max-width: 48rem;
+}
+
+/*Estilo asignaturas (corregido)*/
+.asignaturas ul {
+  list-style-type: disc;       /* viñetas */
+  margin-left: 1.25rem;        /* espacio a la izquierda para las viñetas */
+  padding-left: 1.25rem;       /* padding para alinear con viñetas */
+  background: transparent;     /* anula el fondo aplicado globalmente */
+  overflow: visible;           /* permite flujo normal */
+  color: inherit;              /* hereda color del texto */
+  border: none;
+}
+
+.asignaturas ul li {
+  float: none !important;      /* quitar float impuesto por regla global */
+  display: list-item;          /* forzar estilo de elemento de lista */
+  margin: 0.25rem 0;           /* pequeño espaciado entre items (opcional) */
+}
+
+/*Posición tabla*/
+div.tabla {
+  text-align: center;
+  width: fit-content;
+  margin: 1rem auto;
+  padding: 0.5rem;
+  border: 0.0625rem solid rgba(255,255,255,0.06);
+  border-radius: 0.375rem;
+}
+
+
+/*Tabla Habilidades*/
+table, th, td {
+  border: 1px solid rgb(255, 255, 255);
+  border-collapse: collapse;
+}
+th, td {
+  background-color: #005eac;
+    color: white;
+}
