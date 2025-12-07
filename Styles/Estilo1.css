@@ -197,3 +197,21 @@ th, td {
   background-color: #005eac;
     color: white;
 }
+
+
+/* Estilo del footer */
+#footer {
+  padding: 1.25rem;
+   text-align: center;
+}
+
+#footer p {
+  margin: 0.625rem 0;
+}
+
+#footer a {
+  color: rgb(77, 133, 255);
+}
+
+
+
