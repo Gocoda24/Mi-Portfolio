@@ -95,7 +95,7 @@ li a:focus-visible {
   color: #91f6fa;
   font-size: 0.875rem;
   display: inline-block;
-  padding: 0.25rem 0.5rem; /* espacio interno pequeño */
+  padding: 0.25rem 0.5rem; 
   margin-top: 0.5rem;
   border-radius: 0.375rem;
   border: 0.0625rem solid rgb(77, 133, 255);
@@ -115,8 +115,8 @@ li a:focus-visible {
 div.nombre_ciclogrado {
   text-align: center;
   color: #36c6ff;
-  padding: 1rem 1.25rem;         /* espacio interno */
-  margin: 1.25rem auto;         /* separación externa */
+  padding: 1rem 1.25rem;         
+  margin: 1.25rem auto;        
   border: 0.0625rem solid rgba(136, 255, 255, 0.863);
   border-radius: 0.5rem;
   background: rgba(31, 41, 70, 0.664);
@@ -160,21 +160,21 @@ div.asignaturas {
   max-width: 48rem;
 }
 
-/*Estilo asignaturas (corregido)*/
+/*Estilo asignaturas*/
 .asignaturas ul {
-  list-style-type: disc;       /* viñetas */
-  margin-left: 1.25rem;        /* espacio a la izquierda para las viñetas */
-  padding-left: 1.25rem;       /* padding para alinear con viñetas */
-  background: transparent;     /* anula el fondo aplicado globalmente */
-  overflow: visible;           /* permite flujo normal */
-  color: inherit;              /* hereda color del texto */
+  list-style-type: disc;       
+  margin-left: 1.25rem;        
+  padding-left: 1.25rem;       
+  background: transparent;     
+  overflow: visible;           
+  color: inherit;              
   border: none;
 }
 
 .asignaturas ul li {
   float: none !important;      /* quitar float impuesto por regla global */
-  display: list-item;          /* forzar estilo de elemento de lista */
-  margin: 0.25rem 0;           /* pequeño espaciado entre items (opcional) */
+  display: list-item;          
+  margin: 0.25rem 0;           
 }
 
 /*Posición tabla*/
