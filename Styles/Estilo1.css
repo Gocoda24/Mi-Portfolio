@@ -202,5 +202,8 @@ th, td {
   color: rgb(77, 133, 255);
 }
 
-
+#rss-atom a:last-child img {
+  width: 1.5rem;
+  height: 1.5rem; 
+}
 
