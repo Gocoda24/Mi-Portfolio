@@ -3,7 +3,8 @@
 <id>https://estherostos.github.io/proyectofhw/</id>
 <title>Presentacion</title>
 <updated>2025-01-27T19:06:00+01:00</updated>
-<link rel="alternate" href="https://estherostos.github.io/proyectofhw/atom.xml"/>
+<link rel="self" href="https://estherostos.github.io/proyectofhw/atom.xml"/>
+<link rel="alternate" href="https://estherostos.github.io/proyectofhw/"/>
 <author>
 <name>Dario Gomez Cordoba</name>
 <email>gocoda_aliesma24@iesmedinaazahara.es</email>
@@ -14,13 +15,12 @@
 <email>otro@gmail.com</email>
 <uri>https://www.linkedin.com/in/otro</uri>
 </contributor>
-<logo>viajes.jpg</logo>
 <entry>
 <id>
 https://estherostos.github.io/proyectofhw/pages/londres.html
 </id>
 <title>Asignaturas</title>
-<update>2025-01-27T18:30:00+01:00</update>
+<updated>2025-01-27T18:30:00+01:00</updated>
 <author>
 <name>Dario Gomez Cordoba</name>
 <email>gocoda_aliesma24@iesmedinaazahara.es</email>
@@ -28,6 +28,7 @@ https://estherostos.github.io/proyectofhw/pages/londres.html
 <summary>
 Información sobre mi portfolio
 </summary>
-<link rel="alternate" href="https://estherostos.github.io/proyectofhw/pages/londres.html"/>
+<link rel="self" href="https://estherostos.github.io/proyectofhw/atom.xml"/>
+<link rel="alternate" href="https://estherostos.github.io/proyectofhw/"/>
 </entry>
 </feed>
