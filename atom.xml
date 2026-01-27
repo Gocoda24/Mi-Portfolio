@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="es" xml:base="https://estherostos.github.io/proyectofhw/">
 <id>https://estherostos.github.io/proyectofhw/</id>
-<title>Viajes y más atom</title>
-<updated>2021-12-21T19:06:00+01:00</updated>
+<title>Presentacion</title>
+<updated>2025-01-27T19:06:00+01:00</updated>
 <link rel="alternate" href="https://estherostos.github.io/proyectofhw/atom.xml"/>
 <author>
-<name>Esther Ostos Ostos</name>
-<email>ososes_iesma20@iesmedinaazahara.es</email>
+<name>Dario Gomez Cordoba</name>
+<email>gocoda_aliesma24@iesmedinaazahara.es</email>
 </author>
 <category term="Viajes ficticios"/>
 <contributor>
@@ -19,14 +19,14 @@
 <id>
 https://estherostos.github.io/proyectofhw/pages/londres.html
 </id>
-<title>Información sobre Londres</title>
-<update>2021-02-12T18:30:00+01:00</update>
+<title>Asignaturas</title>
+<update>2025-01-27T18:30:00+01:00</update>
 <author>
-<name>Esther Ostos Ostos</name>
-<email>ososes_iesma20@iesmedinaazahara.es</email>
+<name>Dario Gomez Cordoba</name>
+<email>gocoda_aliesma24@iesmedinaazahara.es</email>
 </author>
 <summary>
-En este artículo cutre encontraras casi ninguna información sobre Londres
+Información sobre mi portfolio
 </summary>
 <link rel="alternate" href="https://estherostos.github.io/proyectofhw/pages/londres.html"/>
 </entry>
