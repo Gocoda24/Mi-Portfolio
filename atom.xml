@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<feed xml:lang="es" xml:base="https://estherostos.github.io/proyectofhw/">
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es" xml:base="https://estherostos.github.io/proyectofhw/">
 <id>https://estherostos.github.io/proyectofhw/</id>
 <title>Presentacion</title>
 <updated>2025-01-27T19:06:00+01:00</updated>
@@ -25,10 +25,7 @@ https://estherostos.github.io/proyectofhw/pages/londres.html
 <name>Dario Gomez Cordoba</name>
 <email>gocoda_aliesma24@iesmedinaazahara.es</email>
 </author>
-<summary>
-Información sobre mi portfolio
-</summary>
-<link rel="self" href="https://estherostos.github.io/proyectofhw/atom.xml"/>
-<link rel="alternate" href="https://estherostos.github.io/proyectofhw/"/>
+<summary>Información sobre mi portfolio</summary>
+<link rel="alternate" href="https://estherostos.github.io/proyectofhw/pages/londres.html"/>
 </entry>
 </feed>
