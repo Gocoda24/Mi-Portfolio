@@ -3,22 +3,21 @@
 <channel>
       <!--Prólogo-->
       <title>Presentacion</title>
-      <link>https://estherostos.github.io/proyectofhw</link>
+      <link>https://gocoda24.github.io/Mi-Portfolio/</link>
       <description>Información sobre mi portfolio</description>
       <category>Presentacion</category>
       <copyright>1º ASIR - LMSGI</copyright>
       <image>
       <url>
-      https://estherostos.github.io/proyectofhw/viajes.jpg
       </url>
       <title>Habilidades</title>
-      <link>https://estherostos.github.io/proyectofhw</link>
+      <link>https://gocoda24.github.io/Mi-Portfolio/</link>
       <width>30</width>
       <height>30</height>
       </image>
 <language>es-es</language>
 <lastBuildDate>Sun, 27 Ene 2025 12:15:00 +0100</lastBuildDate>
-<webMaster>gocoda_aliesma24@iesmedinaazahara.es</webMaster>
+<webMaster>https://gocoda24.github.io/Mi-Portfolio/</webMaster>
 
 <!-- Noticias del canal -->
 <item>
@@ -29,7 +28,7 @@
       Informacion sobre mi portfolio
       </description>
       <link>
-      https://estherostos.github.io/proyectofhw/pages/paris.html
+      https://gocoda24.github.io/Mi-Portfolio/
       </link>
       <author>gocoda_aliesma24@iesmedinaazahara.es</author>
       <category>Asignaturas</category>
