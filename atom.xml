@@ -6,18 +6,18 @@
 <link rel="self" href="https://estherostos.github.io/proyectofhw/atom.xml"/>
 <link rel="alternate" href="https://estherostos.github.io/proyectofhw/"/>
 <author>
-<name>Dario Gomez Cordoba</name>
-<email>gocoda_aliesma24@iesmedinaazahara.es</email>
+      <name>Dario Gomez Cordoba</name>
+      <email>gocoda_aliesma24@iesmedinaazahara.es</email>
 </author>
 <category term="Viajes ficticios"/>
 <contributor>
-<name>otro Autor</name>
-<email>otro@gmail.com</email>
-<uri>https://www.linkedin.com/in/otro</uri>
+      <name>otro Autor</name>
+      <email>otro@gmail.com</email>
+      <uri>https://www.linkedin.com/</uri>
 </contributor>
 <entry>
 <id>
-https://estherostos.github.io/proyectofhw/pages/londres.html
+https://gocoda24.github.io/Mi-Portfolio/
 </id>
 <title>Asignaturas</title>
 <updated>2025-01-27T18:30:00+01:00</updated>
@@ -26,6 +26,6 @@ https://estherostos.github.io/proyectofhw/pages/londres.html
 <email>gocoda_aliesma24@iesmedinaazahara.es</email>
 </author>
 <summary>Información sobre mi portfolio</summary>
-<link rel="alternate" href="https://estherostos.github.io/proyectofhw/pages/londres.html"/>
+<link rel="alternate" href="https://gocoda24.github.io/Mi-Portfolio/"/>
 </entry>
 </feed>
