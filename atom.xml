@@ -1,29 +1,29 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es" xml:base="https://estherostos.github.io/proyectofhw/">
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es" xml:base="https://gocoda24.github.io/Mi-Portfolio/">
 <id>https://gocoda24.github.io/Mi-Portfolio/atom.xml</id>
 <title>Presentacion</title>
 <updated>2025-01-27T19:06:00+01:00</updated>
-<link rel="self" href="https://estherostos.github.io/proyectofhw/atom.xml"/>
-<link rel="alternate" href="https://estherostos.github.io/proyectofhw/"/>
+<link rel="self" href="https://gocoda24.github.io/Mi-Portfolio/atom.xml"/>
+<link rel="alternate" href="https://gocoda24.github.io/Mi-Portfolio/"/>
 <author>
       <name>Dario Gomez Cordoba</name>
       <email>gocoda_aliesma24@iesmedinaazahara.es</email>
 </author>
-<category term="Viajes ficticios"/>
+<category term="Portfolio"/>
 <contributor>
-      <name>otro Autor</name>
-      <email>otro@gmail.com</email>
+      <name>Dario</name>
+      <email>gocoda_aliesma24@iesmedinaazahara.es</email>
       <uri>https://www.linkedin.com/</uri>
 </contributor>
 <entry>
 <id>
-https://gocoda24.github.io/Mi-Portfolio/
+      https://gocoda24.github.io/Mi-Portfolio/
 </id>
 <title>Asignaturas</title>
 <updated>2025-01-27T18:30:00+01:00</updated>
 <author>
-<name>Dario Gomez Cordoba</name>
-<email>gocoda_aliesma24@iesmedinaazahara.es</email>
+      <name>Dario Gomez Cordoba</name>
+      <email>gocoda_aliesma24@iesmedinaazahara.es</email>
 </author>
 <summary>Información sobre mi portfolio</summary>
 <link rel="alternate" href="https://gocoda24.github.io/Mi-Portfolio/"/>
